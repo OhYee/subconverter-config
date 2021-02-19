@@ -22,7 +22,7 @@ IP-CIDR,52.4.0.0/14,no-resolve
 IP-CIDR,52.10.0.0/15,no-resolve
 IP-CIDR,52.52.0.0/15,no-resolve
 IP-CIDR,52.192.0.0/15,no-resolve
-IP-CIDR,52.196.0.0/14i,no-resolve
+IP-CIDR,52.196.0.0/14,no-resolve
 IP-CIDR,54.64.0.0/15,no-resolve
 IP-CIDR,54.153.128.0/17,no-resolve
 IP-CIDR,54.160.0.0/17,no-resolve
