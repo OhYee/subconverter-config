@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,.onion
+DOMAIN-SUFFIX,*.onion
 DOMAIN,check.torproject.org
