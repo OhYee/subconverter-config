@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
 # Nintendo Switch,Nintendo Switch全平台,0,0,1,0,0,2,Switch全平台加速，扒自网易UU加速器（20200330），请自行设置网络共享。
 IP-CIDR,3.80.0.0/12,no-resolve
 IP-CIDR,3.104.0.0/14,no-resolve
